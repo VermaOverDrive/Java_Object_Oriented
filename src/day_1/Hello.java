@@ -15,9 +15,12 @@ public class Hello {
            double=
 
          */
-         class DataType{
+        class DataType {
             public static void main(String[] args) {
                 float s = 2.3f;
 
 
             }
+        }
+    }
+}
